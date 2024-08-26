@@ -1,1 +1,1 @@
-# Homework2COSC360
+This Repo is for Homework 2
